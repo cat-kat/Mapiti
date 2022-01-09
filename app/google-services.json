@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "924866248211",
+    "project_id": "myapp-331217",
+    "storage_bucket": "myapp-331217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924866248211:android:f4830e159eb81727f689e6",
+        "android_client_info": {
+          "package_name": "com.example.mapiti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924866248211-juj3js3r4q6hlcve9sflt0bgugsp57u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaLI2ZMRM8NuhUUb9WHXVNTPOu16TJxNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924866248211-juj3js3r4q6hlcve9sflt0bgugsp57u3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

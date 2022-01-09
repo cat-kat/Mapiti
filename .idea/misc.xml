@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1824074074074074" />
+        <entry key="app/src/main/res/drawable/button_style.xml" value="0.19270833333333334" />
+        <entry key="app/src/main/res/drawable/hamburger_line.xml" value="0.171875" />
+        <entry key="app/src/main/res/drawable/like.xml" value="0.19166666666666668" />
+        <entry key="app/src/main/res/drawable/line_1.xml" value="0.1824074074074074" />
+        <entry key="app/src/main/res/drawable/lines.xml" value="0.171875" />
+        <entry key="app/src/main/res/drawable/micro.xml" value="0.1640625" />
+        <entry key="app/src/main/res/drawable/not_like.xml" value="0.19166666666666668" />
+        <entry key="app/src/main/res/drawable/profile.xml" value="0.10677083333333333" />
+        <entry key="app/src/main/res/drawable/ramka.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/drawable/rectangle_1.xml" value="0.171875" />
+        <entry key="app/src/main/res/drawable/rectangle_2.xml" value="0.13229166666666667" />
+        <entry key="app/src/main/res/drawable/rectangle_8.xml" value="0.1824074074074074" />
+        <entry key="app/src/main/res/drawable/rounded_edittext.xml" value="0.21145833333333333" />
+        <entry key="app/src/main/res/layout/activity_add.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_favorite.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_map.xml" value="0.1213768115942029" />
+        <entry key="app/src/main/res/layout/activity_maps.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/bottom_sheet_dialog_layout.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/bottom_sheet_dialog_layout_fav.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

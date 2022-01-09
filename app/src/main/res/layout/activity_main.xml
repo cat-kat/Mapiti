@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/autorization_back"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:ignore="MissingConstraints"
+        android:gravity="center">
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="120dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginBottom="200dp"
+            android:background="@drawable/logo1" />
+
+
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="214dp"
+                android:layout_height="28dp"
+                android:layout_margin="30dp"
+                android:fontFamily="@font/play"
+                android:text="Продолжить как:"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="24sp" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/simpleUser"
+                android:layout_width="268dp"
+                android:layout_height="48dp"
+                android:layout_margin="10dp"
+                android:background="@drawable/button_style"
+                android:fontFamily="@font/play"
+                android:gravity="center"
+                android:onClick="onClickSimpleUser"
+                android:text="Обычный пользователь"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="18sp"
+                app:cornerRadius="@dimen/material_emphasis_high_type" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/businessUser"
+                android:onClick="onClickProfile"
+                android:layout_width="268dp"
+                android:layout_height="48dp"
+                android:background="@drawable/button_style"
+                android:fontFamily="@font/play"
+                android:text="Бизнес-аккаунт"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="18sp"
+                app:cornerRadius="16dp"
+                />
+
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="280dp"
+                android:layout_height="12dp"
+                android:layout_margin="15dp"
+                android:fontFamily="@font/play"
+                android:text="Бизнес-аккаунт предполагает оформление платной подписки"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="9sp" />
+        </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
